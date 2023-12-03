@@ -1,26 +1,19 @@
-# Citation
+# Dataset Citation
 
 This repository comprises the dataset described in our paper published in ArabicNLP conference @ EMNLP 2023. If you use it, please cite the paper:
 
-Imene Bensalem, Meryem Ait Mout, and Paolo Rosso. 2023. Offensive Language Detection in Arabizi. In ArabicNLP conference @ EMNLP 2023. 
+> Imene Bensalem, Meryem Ait Mout, and Paolo Rosso. 2023. Offensive Language Detection in Arabizi. In ArabicNLP conference @ EMNLP 2023.
 
-@inproceedings{Bensalem2023,
-
-author = {Bensalem, Imene and {Ait Mout}, Meryem and Rosso, Paolo},
-
-booktitle = {ArabicNLP conference @ EMNLP 2023},
-
-file = {:F\:/Imene_doc/Mendeley Desktop/Bensalem, Ait Mout, Rosso - 2023 - Offensive Language Detection in Arabizi.pdf:pdf},
-
-title = {{Offensive Language Detection in Arabizi}},
-
-year = {2023}
-
-}
+> @inproceedings {Bensalem2023,  
+> author = {Bensalem, Imene and {Ait Mout}, Meryem and Rosso, Paolo},  
+> booktitle = {ArabicNLP conference @ EMNLP 2023},  
+> title = {{Offensive Language Detection in Arabizi}},  
+> year = {2023}  
+> }
 
 For the time being the paper could be downloaded from : https://www.researchgate.net/publication/375888203_Offensive_Language_Detection_in_Arabizi
 
-# Source 
+# Source of Text
 
 The dataset descibed in used in the experiments has been created by merging the Arabizi examples extracted from 4 existing datasets (desribed in the following papers):
 

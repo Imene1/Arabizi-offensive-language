@@ -5,11 +5,17 @@ This repository comprises the dataset described in our paper published in Arabic
 Imene Bensalem, Meryem Ait Mout, and Paolo Rosso. 2023. Offensive Language Detection in Arabizi. In ArabicNLP conference @ EMNLP 2023. 
 
 @inproceedings{Bensalem2023,
+
 author = {Bensalem, Imene and {Ait Mout}, Meryem and Rosso, Paolo},
+
 booktitle = {ArabicNLP conference @ EMNLP 2023},
+
 file = {:F\:/Imene_doc/Mendeley Desktop/Bensalem, Ait Mout, Rosso - 2023 - Offensive Language Detection in Arabizi.pdf:pdf},
+
 title = {{Offensive Language Detection in Arabizi}},
+
 year = {2023}
+
 }
 
 For the time being the paper could be downloaded from : https://www.researchgate.net/publication/375888203_Offensive_Language_Detection_in_Arabizi

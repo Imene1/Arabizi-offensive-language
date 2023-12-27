@@ -3,7 +3,7 @@
 This repository comprises the dataset described in our paper published in ArabicNLP conference @ EMNLP 2023. If you use it, please cite the paper:
 ```
 Imene Bensalem, Meryem Ait Mout, and Paolo Rosso. 2023. Offensive Language Detection in Arabizi. In ArabicNLP conference @ EMNLP 2023.
-
+```
 
 ```
 @inproceedings {Bensalem2023,  

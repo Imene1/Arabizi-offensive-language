@@ -17,7 +17,7 @@ For the time being the paper could be downloaded from : https://www.researchgate
 
 # Source of Text
 
-The dataset descibed in used in the experiments has been created by merging the Arabizi examples extracted from 4 existing datasets (desribed in the following papers):
+The dataset has been created by merging the Arabizi examples extracted from 4 existing datasets (described in the following papers):
 
 Djamila Mohdeb, Meriem Laifa, Fayssal Zerargui, and Omar Benzaoui. 2022. Evaluating transfer learning approach for detecting Arabic anti-refugee/migrant speech on social media. Aslib Journal of Information Management, 74(6):1070–1088
 
